@@ -1,0 +1,4 @@
+agent,total_fraud,total_legit,true_positives,false_negatives,false_positives,fn_rate,fp_rate,fraud_detection_rate,key_failure_pattern
+Baseline,98,56864,95,3,198,0.0306,0.0035,0.9694,Strong performance — few failures in both directions
+Chain-of-Thought,98,56864,95,3,169,0.0306,0.003,0.9694,Strong performance — few failures in both directions
+Task-Decomposed,98,56864,97,1,11393,0.0102,0.2004,0.9898,Low miss rate but high false alarms — over-sensitive threshold

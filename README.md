@@ -259,7 +259,7 @@ Dataset (284,807 transactions)
         │   ├── Agent failure overlap heatmap
         │   └── Hard-case feature signatures
         │
-        └── PDF Research Report (IEEE format)
+        └── PDF Research Report
 ```
 
 ---
